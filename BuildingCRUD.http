@@ -1,0 +1,6 @@
+@BuildingCRUD_HostAddress = http://localhost:5258
+
+GET {{BuildingCRUD_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
